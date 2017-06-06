@@ -6,3 +6,5 @@ creat again
 creat in master
 >>>>>>> master
 creat in dev
+
+manager by dev
